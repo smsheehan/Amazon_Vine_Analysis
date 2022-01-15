@@ -65,4 +65,5 @@ In the video game category and looking at reviews that meet our "helpful" criter
 
 
 ## Summary: 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+Based on this analysis of the video game category, the data shows that Vine reviewers provide 5-star reviews at a higher rate than non-vine reviewers.  However, more analysis would need to be undertaken before one could make a statement about bias in the Vine program.  We would need to perform similar analyses across additional categories, not just a single category.  Additionally we would need to perform statistical analysis to understand if the differences we see are statistically significant given the sample size.
